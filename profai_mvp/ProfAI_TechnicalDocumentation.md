@@ -1,0 +1,1 @@
+# 🏗️ ProfAI - Technical Documentation & Architecture

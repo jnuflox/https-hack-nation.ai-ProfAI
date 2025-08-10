@@ -1,0 +1,33 @@
+/* Progress Roadmap Styles */
+.progress-line-fill {
+  transition: height 0.5s ease-in-out;
+}
+
+/* Custom styles for progress roadmap component */
+.roadmap-progress-line {
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  bottom: 0;
+  width: 0.25rem;
+  background-color: #e5e7eb;
+}
+
+.roadmap-progress-fill {
+  background-color: #2563eb;
+  width: 100%;
+  transition: all 0.5s ease;
+}
+
+/* Height classes for progress line */
+.progress-0 { height: 0%; }
+.progress-10 { height: 10%; }
+.progress-20 { height: 20%; }
+.progress-30 { height: 30%; }
+.progress-40 { height: 40%; }
+.progress-50 { height: 50%; }
+.progress-60 { height: 60%; }
+.progress-70 { height: 70%; }
+.progress-80 { height: 80%; }
+.progress-90 { height: 90%; }
+.progress-100 { height: 100%; }
